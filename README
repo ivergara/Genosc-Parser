@@ -1,0 +1,11 @@
+ToDo:
+- Save parameters into the genoscmodel class
+- Usage help: takes a whole directory/folder and returns a file with the
+  oscillators tabulated by temperature. filename convention and folder
+  suggestion
+- Investigate use of dictionaries and csv.DictWriter
+- Fix optional and default arguments
+-- Optional arguments are not optional because they don't have a default and 
+   the program needs every parameter
+- Calculate area and other properties of the peaks 
+- Check if the file being loaded is a genosc parameter layer (second row GENOSC)
